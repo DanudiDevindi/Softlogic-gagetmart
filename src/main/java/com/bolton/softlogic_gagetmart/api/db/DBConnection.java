@@ -4,8 +4,6 @@ import java.sql.Connection;
 
 import org.apache.commons.dbcp2.BasicDataSource;
 
-
-
 public class DBConnection {
 	
 	private static DBConnection dbConnection;
